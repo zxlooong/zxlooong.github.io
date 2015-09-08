@@ -101,26 +101,22 @@ document.write(
   <tr>
     <td  valign="top" width="782"><table width="782" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td background="images/59_08.gif" height="29" style="padding-left:30px;" class="write12a">公司简介</td>
+        <td background="images/59_08.gif" height="29" style="padding-left:30px;" class="write12a">联系我们</td>
       </tr>
       <tr>
         <td background="images/59_11.gif" valign="top" style="padding:5px 12px 5px 20px;" class="black12a">          <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
-              <td class="hu" style=" line-height:39px"><table width="100" border="0" align="right" cellpadding="3" cellspacing="0" class="table_img_border">
-                <tr>
-                  <td><img src="0/DSC00800.JPG" width="250" height="187" /></td>
-                  </tr>
-                </table>
-                <p align="left">　　　北京佛斯特科技有限公司于2006年通过国家工商管理机关审批注册，属中关村高新技术企业，建立了自己的研发基地。随着改革开放，国家国强民富，私家车时代已经到来。但与之配套的停车设施并不完善，大部分私家车只能停在户外。因北方气候的原因，露天停放的车经常布满灰尘，所以需要经常洗车。据统计，北京地区一年洗车用水近三百多万吨，有的小区甚至还发生恶意划伤车及破坏车窗玻璃的现象。由于大气层中的臭氧层遭到破坏，到了夏天紫外线照射强度增强，就会加速车漆及车内饰的老化。每到春节期间大量燃放鞭炮也难免会对车造成伤害。给每辆车建车库不太现实，但给爱车罩上车衣并不难。使用车衣既能保护汽车，又能减少洗车次数，节约水资源。车衣的品质优与劣取决于面料和工艺，我公司于2010年研发出了具有自主知识产权的专利产品(专利号：ZL201120265708.1)：佛斯特四季车衣，属于第七代车衣，它的面料是用牛津布经过防水、阻燃处理后和摇粒绒(俗称抓绒)布复合而成。不但具有防灰尘、防雨雪、防雾霾、防紫外线的功能，还具有防冰雹、防划伤、阻燃、保温隔热、保护车漆的特质。本产品经过三多年的户外使用，证明它的正常使寿命在三年以上。经过几年的努力公司打造出了一支专业团队，并对产品进行了全面升级，为世界豪车实行量身定做高档专用车衣，包括：劳斯莱斯、阿斯顿马丁、兰博基尼、宾利、红旗、法拉利、迈凯轮、奔驰、保时捷、宝马、奥迪、玛莎拉蒂、路虎、美洲豹、雷克萨斯、凯迪拉克、沃尔沃等品牌车。另外公司还开发出：组合式喷漆专用车衣(专利号ZL201220169193.X)、汽车遮阳伞、汽车风挡防霜罩、便携式(车载)帐篷等系列产品。公司的产品研发基地开始对客户开放，客户可以亲自驾车来基地选择自己喜欢的面料并与技术人员进行现场沟通，共同创意，现场制作出自己的特色车衣。另外，针对每年车展和新车发布会、军车及军用装备罩、房车车罩、特体车罩等，我公司几年来从为用户提供了快递车衣面料小样、派技师现场测量、印刷LOGO、产品准时送达等一系列服务。
-</p>
-                  <table width="100%" border="0" cellpadding="3" cellspacing="0" class="table_img_border">
-                    
-                    <tr>
-                      <td><img src="1205/1.JPG" height="160" /></td>
-                      <td><img src="1205/2.JPG" height="160" /></td>
-                      <td><img src="1205/3.JPG" height="160" /></td>
-                    </tr>
-                </table></td>
+              <td class="hu" style="line-height:35px; font-size:14px"><p align="left"><br />
+                <img src="lt/tel.jpg" width="170" height="188" align="right" /></p>
+                  <p>&nbsp;&nbsp;&nbsp; 我公司用新理念做指导，采用新技术研制新材料，使用新工艺，全新打造出了第七代车衣——佛斯特车衣和移动车库，来满足广大私家车主对爱车的呵护，也欢迎爱车的您加入进来！</p>
+                  <p>联系电话：13522773201<br />
+                    联系电话：010-62917172<br />
+                    招商电话：13701329739 联系人：赵经理<br />
+                    地　址：北京市昌平区崔村镇东崔村西北 <br />
+                    邮　箱：fst2008@126.com<br />
+                  网　址：www.fst2008.com</p>
+                  <p align="left"><br />
+                  </p></td>
               </tr>
           </table></td>
       </tr>

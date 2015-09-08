@@ -97,31 +97,50 @@ document.write(
     <td colspan="3"><img src="images/59_07.gif" width="1000" height="7" /></td>
   </tr>
 </table>
+<style type="text/css">
+<!--
+.STYLE1 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+
 <table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td  valign="top" width="782"><table width="782" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td background="images/59_08.gif" height="29" style="padding-left:30px;" class="write12a">公司简介</td>
+        <td background="images/59_08.gif" height="29" style="padding-left:30px;" class="write12a">新产品研发</td>
       </tr>
       <tr>
         <td background="images/59_11.gif" valign="top" style="padding:5px 12px 5px 20px;" class="black12a">          <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
-              <td class="hu" style=" line-height:39px"><table width="100" border="0" align="right" cellpadding="3" cellspacing="0" class="table_img_border">
-                <tr>
-                  <td><img src="0/DSC00800.JPG" width="250" height="187" /></td>
-                  </tr>
-                </table>
-                <p align="left">　　　北京佛斯特科技有限公司于2006年通过国家工商管理机关审批注册，属中关村高新技术企业，建立了自己的研发基地。随着改革开放，国家国强民富，私家车时代已经到来。但与之配套的停车设施并不完善，大部分私家车只能停在户外。因北方气候的原因，露天停放的车经常布满灰尘，所以需要经常洗车。据统计，北京地区一年洗车用水近三百多万吨，有的小区甚至还发生恶意划伤车及破坏车窗玻璃的现象。由于大气层中的臭氧层遭到破坏，到了夏天紫外线照射强度增强，就会加速车漆及车内饰的老化。每到春节期间大量燃放鞭炮也难免会对车造成伤害。给每辆车建车库不太现实，但给爱车罩上车衣并不难。使用车衣既能保护汽车，又能减少洗车次数，节约水资源。车衣的品质优与劣取决于面料和工艺，我公司于2010年研发出了具有自主知识产权的专利产品(专利号：ZL201120265708.1)：佛斯特四季车衣，属于第七代车衣，它的面料是用牛津布经过防水、阻燃处理后和摇粒绒(俗称抓绒)布复合而成。不但具有防灰尘、防雨雪、防雾霾、防紫外线的功能，还具有防冰雹、防划伤、阻燃、保温隔热、保护车漆的特质。本产品经过三多年的户外使用，证明它的正常使寿命在三年以上。经过几年的努力公司打造出了一支专业团队，并对产品进行了全面升级，为世界豪车实行量身定做高档专用车衣，包括：劳斯莱斯、阿斯顿马丁、兰博基尼、宾利、红旗、法拉利、迈凯轮、奔驰、保时捷、宝马、奥迪、玛莎拉蒂、路虎、美洲豹、雷克萨斯、凯迪拉克、沃尔沃等品牌车。另外公司还开发出：组合式喷漆专用车衣(专利号ZL201220169193.X)、汽车遮阳伞、汽车风挡防霜罩、便携式(车载)帐篷等系列产品。公司的产品研发基地开始对客户开放，客户可以亲自驾车来基地选择自己喜欢的面料并与技术人员进行现场沟通，共同创意，现场制作出自己的特色车衣。另外，针对每年车展和新车发布会、军车及军用装备罩、房车车罩、特体车罩等，我公司几年来从为用户提供了快递车衣面料小样、派技师现场测量、印刷LOGO、产品准时送达等一系列服务。
-</p>
-                  <table width="100%" border="0" cellpadding="3" cellspacing="0" class="table_img_border">
+              <td><p>我公司最新研发出的新产品有： </p>
+                <p><span style="color: #FF0000"><strong>多功能移动车库 </strong></span><br />
+                  多功能移动车库是在车衣的基础上加装了车底部船型底座，用防水拉链和车衣对接，达到更好的保护爱车目的。它具有防沙尘、防雨雪及冰雹、防曝晒、防划伤、保温隔热又阻燃的特点。让您的爱车不管行到哪里都有适宜的车库。且移动车库适合各种车型。 
+                <p><span style="color: #FF0000"><strong>户外帐篷产品 </strong></span><br />
+                  户外（车载）便携式帐篷是采用专利材料的面料经过精心设计制作而成，支撑结构采用悬挂式，支撑材料选用具有高强性、高硬度、高强度的铝合金造成。既美观又稳固，并配备了防潮垫。这款便携式帐篷不仅能给有车族节假日出游度假带来方便和快乐，也是家庭紧急避险必备用品。</p>
+                <p><span style="color: #FF0000"><strong>四季汽车用衣</strong></span><br />
+                  佛斯特四季车衣能保持爱车干净整洁，车衣所用的面料是一种高级复合材料，里层是柔软的摇粒绒绒布，长期罩在爱车上，不会因风的作用而损伤车漆；外层牛津布通过高新技术处理，能够防水、阻燃，且能防冰雹。为了能让经常停放的爱车轮胎不老化和避免宠物狗尿，专门在车衣两侧设计防护裙。</p>
+                 <p><span style="color: #FF0000"><strong><strong></strong>汽车遮阳伞 </strong></span><br />
+                  汽车遮阳伞是专门为夏季高温天气下停放的汽车遮阳避暑所设计的，由于大气中臭氧层遭到破坏，使得阳光下的紫外线强度增加，如果室外温度为三十五摄氏度，那么在阳光下停放的汽车车内温度将会高达六十五摄氏度，强烈的阳光会对汽车内饰造成极大伤害，如果给爱车罩上遮阳伞，车内温度只有四十摄氏度左右，在一定程度上保护了我们的爱车。</p>
+                <p><span style="color: #FF0000"><strong>组合式喷漆专用车衣（专利号：ZL.201220169193X） </strong></span><br />
+                  我公司研发出具有自主知识产权的专利产品，是专门为4S店及汽修行业的喷漆车间开发的，此款车衣是按车型把外壳（如：发动机盖、后备箱、车门、叶子板、车顶）的各个部件分解开后，制成的组合式车衣。</p>
+<table width="100%" border="0" cellpadding="3" cellspacing="0" class="table_img_border">
                     
                     <tr>
-                      <td><img src="1205/1.JPG" height="160" /></td>
-                      <td><img src="1205/2.JPG" height="160" /></td>
-                      <td><img src="1205/3.JPG" height="160" /></td>
+                      <td><img src="1205/16.JPG" height="160" width="245" /></td>
+                      <td><img src="1205/17.JPG" height="160" width="245"  /></td>
+                      <td><img src="1205/18.JPG" height="160" width="245"  /></td>
                     </tr>
-                </table></td>
-              </tr>
+                    <tr>
+                      <td><img src="1205/13.JPG" height="160"  width="245" /></td>
+                      <td><img src="1205/14.JPG" height="160"  width="245" /></td>
+                      <td><img src="1205/15.JPG" height="160"  width="245" /></td>
+                    </tr>
+                </table>
+                </td>
+            </tr>
           </table></td>
       </tr>
       <tr>
